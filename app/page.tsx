@@ -10,11 +10,8 @@ export default function Home() {
       padding: '20px'
     }}>
       <h1 style={{ fontSize: '3rem', marginBottom: '1rem' }}>
-        Мой Next.js проект
+        Пока течет москва река Мехмат сосет у ФКН
       </h1>
-      <p style={{ fontSize: '1.5rem' }}>
-        Это главная страница моего приложения.
-      </p>
     </div>
   );
 }
